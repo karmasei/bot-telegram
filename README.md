@@ -11,9 +11,9 @@ Bot Telegram - Es un asistente virtual que cuenta con juegos e historias que int
 - Base64
 
 ## 📝 Funciones 
-- Funcionamiento a comandos
-- Botones interactivos
-- Juegos como Piedra, Papel o Tijera, Adivina el Número
-- Historia interactiva a base de decisiones
-- Precisa la hora y fecha
-- Generación de imágenes
+1. **Funcionamiento a comandos**
+2. **Botones interactivos**
+3. **Juegos como Piedra, Papel o Tijera, Adivina el Número**
+4. **Historia interactiva a base de decisiones**
+5. **Precisa la hora y fecha**
+6. **Generación de imágenes**
